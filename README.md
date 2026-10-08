@@ -45,6 +45,7 @@ O roadmap segue o ciclo:
 | 📚 Semana 03 | [Week 03](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/week-03) |
 | 📚 Semana 04 | [Week 04](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/week-04) |
 | 📚 Semana 05 | [Week 05](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/week-05) |
+| 📚 Semana 06 | [Week 06](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/week-06) |
 | 🧪 Evidências | [Evidence](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/evidence) |
 | 📂 Projetos | [Projects](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/projects) |
 | 📖 Documentação | [Docs](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/docs) |

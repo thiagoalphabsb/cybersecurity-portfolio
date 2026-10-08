@@ -107,6 +107,18 @@ Projeto focado em fortalecimento de contas, MFA, gerenciamento de credenciais, s
 
 ---
 
+## 05 — 🖥️ Windows Server 2025 Fundamentals & Active Directory
+
+**Administração, Hardening e Infraestrutura Windows**
+
+Projeto focado em implantação, administração e segurança em ambiente Windows Server 2025, integrando gestão de identidades (AD DS), políticas de grupo (GPO), DNS e serviços de rede corporativos.
+
+👉 **[Acessar Windows Server 2025](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/projects/windows-server-2025)**
+
+**Competências:** Windows Server 2025 · Active Directory · GPO · DNS · IAM · Server Hardening · VirtualBox
+
+---
+
 # 📊 Projeto Complementar — Power BI
 
 Além da Cibersegurança, mantenho uma jornada de estudos em **Power BI e análise de dados públicos de saúde**.

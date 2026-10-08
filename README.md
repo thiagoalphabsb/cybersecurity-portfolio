@@ -63,11 +63,11 @@ Os projetos abaixo são os principais trabalhos práticos selecionados da jornad
 
 **Laboratório virtual de Cibersegurança**
 
-Ambiente controlado com Debian e Kali Linux para prática de redes, Linux, SSH, Nmap, Wireshark, serviços e investigação técnica.
+Ambiente controlado e multi-OS integrado com **Debian, Kali Linux e Windows Server 2025** para prática de redes, administração de sistemas, análise de tráfego, SSH, Nmap, Wireshark e testes de serviços.
 
 👉 **[Acessar CyberLab](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/portfolio/cyberlab)**
 
-**Competências:** Linux · VirtualBox · Redes · SSH · Nmap · Wireshark · Troubleshooting
+**Competências:** Linux (Debian/Kali) · Windows Server 2025 · VirtualBox · Redes · Active Directory · SSH · Nmap · Wireshark
 
 ---
 
@@ -295,6 +295,7 @@ O objetivo deste portfólio não é apenas mostrar **o que estudei**.
 
 - [Cybersecurity Roadmap](https://github.com/thiagoalphabsb/cybersecurity-roadmap)
 - [CyberLab](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/portfolio/cyberlab)
+- [Windows Server 2025](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/projects/windows-server-2025)
 - [Network Analysis](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/portfolio/network-analysis)
 - [Linux Security Fundamentals](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/portfolio/linux-security)
 - [Account Security Hygiene](https://github.com/thiagoalphabsb/account-security-hygiene)

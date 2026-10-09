@@ -1,332 +1,129 @@
 # 🛡️ Cybersecurity Portfolio — Thiago S. Silva
 
-> **Portfólio prático da minha transição profissional de Suporte N2 para Cibersegurança.**
+> Portfólio prático da minha transição profissional de **Suporte N2 para Cibersegurança**, com foco em laboratório, investigação, documentação e evidências.
 
-Este repositório é o **ponto central de acesso** aos meus projetos, laboratórios, evidências e estudos em Cibersegurança.
-
-A proposta é simples: transformar conhecimento em **prática, investigação, documentação e evidências técnicas**.
+[![GitHub](https://img.shields.io/badge/GitHub-Cybersecurity%20Portfolio-181717?logo=github)](https://github.com/thiagoalphabsb/cybersecurity-portfolio)
 
 ---
 
 ## 👋 Sobre mim
 
-Sou **Thiago S. Silva**, profissional de Suporte N2 em transição para a área de **Cibersegurança**.
+Sou profissional de **Suporte N2** em transição para Cibersegurança.
 
-Minha experiência em suporte técnico trouxe uma base prática em:
+Minha experiência com troubleshooting, sistemas, redes, atendimento técnico e investigação de incidentes forma a base da minha evolução para Segurança da Informação.
 
-- Troubleshooting
-- Sistemas operacionais
-- Redes
-- Análise de problemas
-- Atendimento técnico
-- Investigação e resolução de incidentes
-
-Estou utilizando essa experiência como base para desenvolver competências em **Cybersecurity, Blue Team, SOC, análise de redes, Linux, Windows, segurança de identidades, investigação e resposta a incidentes**.
+Este repositório é a **vitrine profissional**. Os detalhes de implementação ficam nos projetos e no Cybersecurity Roadmap.
 
 ---
 
-# 🗺️ Cybersecurity Roadmap
+## ⭐ Projetos em destaque
 
-A principal jornada deste portfólio é o meu **Cybersecurity Roadmap de 24 semanas**.
-
-O roadmap segue o ciclo:
-
-**Estudar → Praticar → Investigar → Registrar evidências → Documentar → Refletir → Evoluir**
-
-### 👉 [🛡️ Acessar o Cybersecurity Roadmap](https://github.com/thiagoalphabsb/cybersecurity-roadmap)
-
-### Estrutura principal
-
-| Área | Acesso |
-|---|---|
-| 🗺️ Roadmap completo | [README principal](https://github.com/thiagoalphabsb/cybersecurity-roadmap) |
-| 📚 Semana 01 | [Week 01](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/week-01) |
-| 📚 Semana 02 | [Week 02](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/week-02) |
-| 📚 Semana 03 | [Week 03](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/week-03) |
-| 📚 Semana 04 | [Week 04](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/week-04) |
-| 📚 Semana 05 | [Week 05](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/week-05) |
-| 📚 Semana 06 | [Week 06](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/week-06) |
-| 🧪 Evidências | [Evidence](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/evidence) |
-| 📂 Projetos | [Projects](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/projects) |
-| 📖 Documentação | [Docs](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/docs) |
-| 📝 Anotações | [Notes](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/notes) |
-| 📚 Recursos | [Resources](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/resources) |
-| 🔬 Portfolio no Roadmap | [Portfolio](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/portfolio) |
+| Projeto | Competências | Acesso |
+|---|---|---|
+| 🖥️ Windows Server 2025 / Active Directory | AD DS, DNS, GPO, usuários, grupos, IAM | [Ver projeto](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/projects/windows-server-2025) |
+| 🧪 CyberLab | VirtualBox, Linux, Windows Server, redes isoladas | [Ver projeto](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/portfolio/cyberlab) |
+| 🌐 Network Analysis | TCP/IP, Nmap, DNS, ARP, Wireshark | [Ver projeto](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/portfolio/network-analysis) |
+| 🐧 Linux Security | Usuários, permissões, processos, serviços, logs | [Ver projeto](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/portfolio/linux-security) |
+| 🔐 Account Security Hygiene | MFA, credenciais, sessões, IAM, risco | [Ver projeto](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/projects/account-security-hygiene) |
 
 ---
 
-# 🔬 Projetos de Cibersegurança
+## 🗺️ Cybersecurity Roadmap
 
-Os projetos abaixo são os principais trabalhos práticos selecionados da jornada.
+Minha jornada prática é organizada em 24 semanas:
 
-## 01 — 🖥️ CyberLab
+**Estudar → Executar → Investigar → Evidenciar → Documentar → Refletir**
 
-**Laboratório virtual de Cibersegurança**
+### Progresso atual
 
-Ambiente controlado e multi-OS integrado com **Debian, Kali Linux e Windows Server 2025** para prática de redes, administração de sistemas, análise de tráfego, SSH, Nmap, Wireshark e testes de serviços.
+- ✅ Weeks 01–06 concluídas
+- 🚧 Week 07 — Python em andamento
+- 📋 Weeks 08–24 planejadas
 
-👉 **[Acessar CyberLab](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/portfolio/cyberlab)**
-
-**Competências:** Linux (Debian/Kali) · Windows Server 2025 · VirtualBox · Redes · Active Directory · SSH · Nmap · Wireshark
-
----
-
-## 02 — 🌐 Network Analysis
-
-**Análise de redes, serviços e tráfego**
-
-Projeto voltado à investigação de comunicação de rede, incluindo TCP/IP, portas, sockets, DNS, ARP, Nmap, Wireshark e correlação entre rede e serviços.
-
-👉 **[Acessar Network Analysis](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/portfolio/network-analysis)**
-
-**Competências:** TCP/IP · Nmap · Wireshark · DNS · ARP · Firewall · Análise de tráfego
+[**Abrir o Cybersecurity Roadmap →**](https://github.com/thiagoalphabsb/cybersecurity-roadmap)
 
 ---
 
-## 03 — 🐧 Linux Security Fundamentals
-
-**Fundamentos de segurança em Linux**
-
-Aplicação prática de usuários, permissões, processos, serviços, logs, arquivos e automação.
-
-👉 **[Acessar Linux Security](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/portfolio/linux-security)**
-
-**Competências:** Linux · Usuários · Permissões · Processos · Serviços · Logs · Shell
-
----
-
-## 04 — 🔐 Account Security Hygiene
-
-**Higiene de segurança de contas digitais**
-
-Projeto focado em fortalecimento de contas, MFA, gerenciamento de credenciais, sessões, permissões e redução de riscos relacionados à identidade.
-
-👉 **[Acessar projeto no GitHub](https://github.com/thiagoalphabsb/account-security-hygiene)**
-
-**Competências:** IAM · MFA · Bitwarden · Gestão de credenciais · Least Privilege · Risk Assessment
-
----
-
-## 05 — 🖥️ Windows Server 2025 Fundamentals & Active Directory
-
-**Administração, Hardening e Infraestrutura Windows**
-
-Projeto focado em implantação, administração e segurança em ambiente Windows Server 2025, integrando gestão de identidades (AD DS), políticas de grupo (GPO), DNS e serviços de rede corporativos.
-
-👉 **[Acessar Windows Server 2025](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/projects/windows-server-2025)**
-
-**Competências:** Windows Server 2025 · Active Directory · GPO · DNS · IAM · Server Hardening · VirtualBox
-
----
-
-# 📊 Projeto Complementar — Power BI
-
-Além da Cibersegurança, mantenho uma jornada de estudos em **Power BI e análise de dados públicos de saúde**.
-
-O projeto utiliza dados do **SUS/DATASUS** para desenvolver competências em:
-
-- Power BI
-- Power Query
-- ETL
-- Modelagem de dados
-- DAX
-- Dashboards
-- Análise de dados públicos
-
-👉 **[Acessar Power BI Roadmap](https://github.com/thiagoalphabsb/Power-BI-Roadmap)**
-
----
-
-# 🧪 Evidências Técnicas
-
-Uma das características principais desta jornada é a preocupação em **comprovar a prática**.
-
-As atividades são acompanhadas, quando aplicável, por:
-
-- Screenshots
-- Saídas de comandos
-- Resultados de scans
-- Capturas de tráfego
-- Configurações
-- Análises
-- Documentação
-- Conclusões técnicas
-
-👉 **[Abrir todas as evidências](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/evidence)**
-
----
-
-# 🧠 Metodologia de Investigação
-
-Durante os laboratórios, procuro evoluir de uma abordagem baseada apenas em comandos para uma abordagem baseada em **hipóteses e evidências**.
-
-### Modelo utilizado
-
-```text
-Evento
-  ↓
-Evidência
-  ↓
-Hipótese
-  ↓
-Validação
-  ↓
-Correlação
-  ↓
-Conclusão
-```
-
-Essa metodologia conecta diretamente minha experiência anterior em **troubleshooting** com o raciocínio necessário para investigação de segurança.
-
----
-
-# 🧰 Tecnologias e Ferramentas
+## 🧰 Competências
 
 ### Sistemas
-
-- Linux
-- Debian
-- Kali Linux
-- Windows
-- Windows Server
+Linux · Debian · Kali Linux · Windows · Windows Server · Active Directory
 
 ### Redes
-
-- TCP/IP
-- IPv4
-- ICMP
-- TCP / UDP
-- DNS
-- DHCP
-- ARP
-- Routing
-- Firewall
+TCP/IP · IPv4 · ICMP · TCP/UDP · DNS · DHCP · ARP · Nmap · Wireshark · SSH · Firewall
 
 ### Segurança
+IAM · MFA · Hardening · Vulnerability Analysis · SOC · SIEM · Incident Response · DFIR
 
-- Nmap
-- Wireshark
-- SSH
-- nftables
-- SIEM
-- Threat Intelligence
-- Incident Response
-- DFIR
-
-### Desenvolvimento e automação
-
-- Python
-- Shell
-- Scripts de automação
+### Automação
+Python · Bash · PowerShell
 
 ### Infraestrutura
-
-- VirtualBox
-- Máquinas virtuais
-- Redes isoladas
-- CyberLab
+VirtualBox · redes isoladas · CyberLab
 
 ---
 
-# 🎓 Formação e Certificações
+## 🎓 Formação e certificações
 
-### Formação
-
-**Graduação em Segurança da Informação**
-
-### Cisco Networking Academy
-
-- Introduction to Cybersecurity
-- Endpoint Security
-- Network Defense
-- Cyber Threat Management
-- Trilha profissionalizante — Analista de Cibersegurança Júnior
-
-### FIAP
-
-- Cyber Security
-- Cloud Fundamentals
-
-### Solyd
-
-- Introdução ao Hacking e Pentest 2.0
-
-### DIO.me
-
-- Segurança e boas práticas em projetos feitos com Vibe Coding
-
-### Outros
-
+- Graduação em Segurança da Informação
+- Google Cybersecurity Professional Certificate
+- Cisco Networking Academy — Introduction to Cybersecurity
+- Cisco Networking Academy — Endpoint Security
+- Cisco Networking Academy — Network Defense
+- Cisco Cyber Threat Management
+- Cisco Academy — Analista de Cibersegurança Júnior
+- FIAP — Cyber Security
+- FIAP — Cloud Fundamentals
+- Solyd — Introdução ao Hacking e Pentest 2.0
+- DIO.me — Segurança e boas práticas em projetos feitos com Vibe Coding
 - ITIL 5 Foundation
 
 ---
 
-# 📈 Evolução Profissional
+## 📌 O que este portfólio demonstra
 
-Minha jornada pode ser representada assim:
+Mais do que listar cursos, os projetos procuram demonstrar capacidade de:
+
+- construir e configurar ambientes de laboratório;
+- executar procedimentos técnicos;
+- investigar problemas;
+- formular e validar hipóteses;
+- interpretar evidências;
+- documentar resultados;
+- aplicar fundamentos de Segurança da Informação;
+- transformar aprendizado em projetos reproduzíveis.
+
+---
+
+## 📚 Metodologia
+
+Cada laboratório segue, quando aplicável:
 
 ```text
-Suporte N2
-    ↓
-Troubleshooting
-    ↓
-Sistemas e Redes
-    ↓
-Fundamentos de Cybersecurity
-    ↓
-Laboratórios Práticos
-    ↓
-Investigação baseada em evidências
-    ↓
-Projetos de Segurança
-    ↓
-SOC / Blue Team / Segurança da Informação
+Objetivo
+   ↓
+Ambiente
+   ↓
+Execução
+   ↓
+Evidências
+   ↓
+Validação
+   ↓
+Resultado
+   ↓
+Lições aprendidas
 ```
 
-O objetivo deste portfólio não é apenas mostrar **o que estudei**.
-
-É mostrar **o que consigo fazer na prática**.
-
 ---
 
-# 🗂️ Mapa do Portfólio
-
-### 🛡️ Cybersecurity
+## 🔗 Links
 
 - [Cybersecurity Roadmap](https://github.com/thiagoalphabsb/cybersecurity-roadmap)
-- [CyberLab](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/portfolio/cyberlab)
-- [Windows Server 2025](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/projects/windows-server-2025)
-- [Network Analysis](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/portfolio/network-analysis)
-- [Linux Security Fundamentals](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/portfolio/linux-security)
-- [Account Security Hygiene](https://github.com/thiagoalphabsb/account-security-hygiene)
-
-### 📊 Dados
-
-- [Power BI Roadmap](https://github.com/thiagoalphabsb/Power-BI-Roadmap)
-
-### 📁 Documentação
-
-- [Evidências](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/evidence)
-- [Documentação](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/docs)
-- [Anotações](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/notes)
-- [Recursos](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/resources)
+- [Meu GitHub](https://github.com/thiagoalphabsb)
+- [Meu LinkedIn](https://www.linkedin.com/in/thiago-souza-silva-5607223aa/)
 
 ---
 
-# 🔗 Contato
-
-**GitHub:** [@thiagoalphabsb](https://github.com/thiagoalphabsb)
-
-**LinkedIn:** [Thiago S. Silva](https://www.linkedin.com/in/thiago-souza-silva-5607223aa/)
-
-**Cybersecurity Roadmap:** [Acessar projeto](https://github.com/thiagoalphabsb/cybersecurity-roadmap)
-
----
-
-> **“O objetivo não é demonstrar que sei tudo. É demonstrar que sei aprender, investigar, resolver problemas e evoluir tecnicamente.”**
-
----
-
-**Thiago S. Silva**  
-Cybersecurity · Blue Team · SOC · Information Security  
-Brasília - DF, Brasil
+> **Thiago S. Silva**  
+> Suporte N2 → Cibersegurança

@@ -1,129 +1,54 @@
 # 🛡️ Cybersecurity Portfolio — Thiago S. Silva
 
-> Portfólio prático da minha transição profissional de **Suporte N2 para Cibersegurança**, com foco em laboratório, investigação, documentação e evidências.
+> Portfólio prático da minha transição profissional de **Suporte N2 para Cibersegurança**, com laboratórios, investigação técnica, documentação e projetos de desenvolvimento.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Cybersecurity%20Portfolio-181717?logo=github)](https://github.com/thiagoalphabsb/cybersecurity-portfolio)
-
----
-
-## 👋 Sobre mim
-
-Sou profissional de **Suporte N2** em transição para Cibersegurança.
-
-Minha experiência com troubleshooting, sistemas, redes, atendimento técnico e investigação de incidentes forma a base da minha evolução para Segurança da Informação.
-
-Este repositório é a **vitrine profissional**. Os detalhes de implementação ficam nos projetos e no Cybersecurity Roadmap.
+[GitHub](https://github.com/thiagoalphabsb) · [LinkedIn](https://www.linkedin.com/in/thiago-souza-silva-5607223aa/)
 
 ---
 
-## ⭐ Projetos em destaque
+## 🚀 Projetos em destaque
 
-| Projeto | Competências | Acesso |
+| Projeto | Competências demonstradas | Acesso |
 |---|---|---|
-| 🖥️ Windows Server 2025 / Active Directory | AD DS, DNS, GPO, usuários, grupos, IAM | [Ver projeto](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/projects/windows-server-2025) |
-| 🧪 CyberLab | VirtualBox, Linux, Windows Server, redes isoladas | [Ver projeto](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/portfolio/cyberlab) |
-| 🌐 Network Analysis | TCP/IP, Nmap, DNS, ARP, Wireshark | [Ver projeto](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/portfolio/network-analysis) |
-| 🐧 Linux Security | Usuários, permissões, processos, serviços, logs | [Ver projeto](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/portfolio/linux-security) |
-| 🔐 Account Security Hygiene | MFA, credenciais, sessões, IAM, risco | [Ver projeto](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/projects/account-security-hygiene) |
+| **Windows Server 2025 / Active Directory** | AD DS, DNS, GPO, usuários, grupos e gestão de identidades | [Ver laboratório](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/projects/windows-server-2025) |
+| **CyberLab** | VirtualBox, Linux, Windows Server e redes isoladas | [Ver projeto](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/portfolio/cyberlab) |
+| **Network Analysis** | TCP/IP, Nmap, DNS, ARP e Wireshark | [Ver projeto](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/portfolio/network-analysis) |
+| **Linux Security** | Usuários, permissões, processos, serviços e logs | [Ver projeto](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/portfolio/linux-security) |
+| **Account Security Hygiene** | MFA, credenciais, sessões, permissões e riscos de contas | [Ver projeto](https://github.com/thiagoalphabsb/account-security-hygiene) |
+| **THUNDER — Workout & Strength Tracker** | Desenvolvimento de aplicação web/PWA, React, TypeScript, Firebase e experiência de produto | [Ver projeto e código](https://github.com/thiagoalphabsb/THUNDER-FIT-APP) · [Descrição no portfólio](./projects/thunder-fit-app.md) |
 
----
+## 🧭 Cybersecurity Roadmap
 
-## 🗺️ Cybersecurity Roadmap
+Minha jornada prática de estudos está organizada em 24 semanas, combinando estudo, laboratórios, evidências e documentação.
 
-Minha jornada prática é organizada em 24 semanas:
+- **Weeks 01–06:** concluídas
+- **Week 07 — Python:** em andamento
+- [Abrir o Cybersecurity Roadmap](https://github.com/thiagoalphabsb/cybersecurity-roadmap)
 
-**Estudar → Executar → Investigar → Evidenciar → Documentar → Refletir**
+## 🧰 Competências técnicas
 
-### Progresso atual
-
-- ✅ Weeks 01–06 concluídas
-- 🚧 Week 07 — Python em andamento
-- 📋 Weeks 08–24 planejadas
-
-[**Abrir o Cybersecurity Roadmap →**](https://github.com/thiagoalphabsb/cybersecurity-roadmap)
-
----
-
-## 🧰 Competências
-
-### Sistemas
-Linux · Debian · Kali Linux · Windows · Windows Server · Active Directory
-
-### Redes
-TCP/IP · IPv4 · ICMP · TCP/UDP · DNS · DHCP · ARP · Nmap · Wireshark · SSH · Firewall
-
-### Segurança
-IAM · MFA · Hardening · Vulnerability Analysis · SOC · SIEM · Incident Response · DFIR
-
-### Automação
-Python · Bash · PowerShell
-
-### Infraestrutura
-VirtualBox · redes isoladas · CyberLab
-
----
+- **Sistemas:** Linux (Debian/Kali), Windows, Windows Server e Active Directory
+- **Redes:** TCP/IP, DNS, DHCP, ICMP, ARP, Nmap, Wireshark e SSH
+- **Segurança:** IAM, MFA, hardening, análise de vulnerabilidades, fundamentos de SOC/SIEM e resposta a incidentes
+- **Automação e desenvolvimento:** Python, Bash, PowerShell, TypeScript e React
+- **Infraestrutura:** VirtualBox, laboratórios isolados e documentação técnica
 
 ## 🎓 Formação e certificações
 
 - Graduação em Segurança da Informação
-- Google Cybersecurity Professional Certificate
-- Cisco Networking Academy — Introduction to Cybersecurity
-- Cisco Networking Academy — Endpoint Security
-- Cisco Networking Academy — Network Defense
-- Cisco Cyber Threat Management
-- Cisco Academy — Analista de Cibersegurança Júnior
-- FIAP — Cyber Security
-- FIAP — Cloud Fundamentals
+- Google Cybersecurity Professional Certificate — Coursera
+- Cisco Networking Academy — Introduction to Cybersecurity, Endpoint Security, Network Defense e Cyber Threat Management
+- Cisco Academy — trilha profissionalizante Analista de Cibersegurança Júnior
+- FIAP — Cyber Security e Cloud Fundamentals
 - Solyd — Introdução ao Hacking e Pentest 2.0
 - DIO.me — Segurança e boas práticas em projetos feitos com Vibe Coding
 - ITIL 5 Foundation
 
----
+## 🎯 Sobre este portfólio
 
-## 📌 O que este portfólio demonstra
-
-Mais do que listar cursos, os projetos procuram demonstrar capacidade de:
-
-- construir e configurar ambientes de laboratório;
-- executar procedimentos técnicos;
-- investigar problemas;
-- formular e validar hipóteses;
-- interpretar evidências;
-- documentar resultados;
-- aplicar fundamentos de Segurança da Informação;
-- transformar aprendizado em projetos reproduzíveis.
+Os projetos demonstram minha capacidade de montar ambientes de laboratório, executar procedimentos técnicos, investigar problemas, validar hipóteses, documentar resultados e transformar aprendizado em entregas práticas. O THUNDER também registra minha evolução em desenvolvimento de software, em paralelo à trilha de Cibersegurança.
 
 ---
 
-## 📚 Metodologia
-
-Cada laboratório segue, quando aplicável:
-
-```text
-Objetivo
-   ↓
-Ambiente
-   ↓
-Execução
-   ↓
-Evidências
-   ↓
-Validação
-   ↓
-Resultado
-   ↓
-Lições aprendidas
-```
-
----
-
-## 🔗 Links
-
-- [Cybersecurity Roadmap](https://github.com/thiagoalphabsb/cybersecurity-roadmap)
-- [Meu GitHub](https://github.com/thiagoalphabsb)
-- [Meu LinkedIn](https://www.linkedin.com/in/thiago-souza-silva-5607223aa/)
-
----
-
-> **Thiago S. Silva**  
-> Suporte N2 → Cibersegurança
+**Thiago S. Silva**  
+Suporte N2 → Cibersegurança | Desenvolvimento de Software

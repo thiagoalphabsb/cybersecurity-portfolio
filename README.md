@@ -15,7 +15,7 @@
 | **Network Analysis** | TCP/IP, Nmap, DNS, ARP e Wireshark | [Ver projeto](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/portfolio/network-analysis) |
 | **Linux Security** | Usuários, permissões, processos, serviços e logs | [Ver projeto](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/portfolio/linux-security) |
 | **Account Security Hygiene** | MFA, credenciais, sessões, permissões e riscos de contas | [Ver projeto](https://github.com/thiagoalphabsb/account-security-hygiene) |
-| **THUNDER — Workout & Strength Tracker** | Desenvolvimento de aplicação web/PWA, React, TypeScript, Firebase e experiência de produto | [Ver projeto e código](https://github.com/thiagoalphabsb/THUNDER-FIT-APP) · [Descrição no portfólio](./projects/thunder-fit-app.md) |
+| **THUNDER — Workout & Strength Tracker** | Desenvolvimento de aplicação web/PWA, React, TypeScript, Firebase e experiência de produto | [Ver projeto e código](https://github.com/thiagoalphabsb/THUNDER-FIT-APP) · [Descrição no portfólio](./projects) |
 
 ## 🧭 Cybersecurity Roadmap
 

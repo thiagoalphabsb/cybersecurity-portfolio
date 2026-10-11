@@ -77,10 +77,10 @@ Uma visão estruturada dos principais projetos desenvolvidos para demonstrar com
 ---
 
 ### 📱 6. THUNDER-FIT-APP
-* **Problema:** Acompanhamento descentralizado e ineficiente de rotinas de treino e progressão de carga.
-* **Solução:** Aplicação Web/PWA desenvolvida em React, TypeScript, Tailwind CSS e Firebase, contando com regras de acesso estruturadas no Firestore e assistente integrado por IA.
-* **Resultado Validado:** PWA funcional com armazenamento local/offline, regras de segurança validadas no backend e interface responsiva.
-* 🔗 [Ver Repositório THUNDER](https://github.com/thiagoalphabsb/THUNDER-FIT-APP)
+* **Problema:** Acompanhamento descentralizado e ineficiente de rotinas de treino, controle de cargas e tempo de descanso.
+* **Solução:** Aplicação Web/PWA desenvolvida em React 18, TypeScript, Tailwind CSS e Firebase, contando com regras estritas de segurança no Firestore (`request.auth.uid == userId`), armazenamento local/offline e assistente integrado por IA.
+* **Resultado Validado:** PWA funcional em execução mobile/desktop, arquitetura modularizada, persistência offline e segurança de dados validadas no backend.
+* 🔗 [Ver Apresentação Detalhada no Portfólio](./projects/thunder-fit-app.md) · [Ver Código-Fonte no GitHub](https://github.com/thiagoalphabsb/THUNDER-FIT-APP)
 
 ---
 

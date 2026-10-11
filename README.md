@@ -22,7 +22,7 @@ Profissional em transição de carreira de **Suporte Local N2** para **Análise 
 
 | Windows Server 2025 & Active Directory | Análise de Tráfego com Wireshark |
 | :---: | :---: |
-| ![GPO Windows Server](./assets/10-day05-GPO-WSB.png) <br><sub>*Criação de GPO `GPO-Workstations-Security-Baseline`, vínculo na OU e configuração de auditoria via PowerShell*</sub> | ![Análise Wireshark SSH](./assets/week04-day02-wireshark3way.jpg) <br><sub>*Captura e inspeção de pacotes SSH (`tcp.port == 22`) entre Kali e Debian no Wireshark*</sub> |
+| ![GPO Windows Server](./assets/10-day05-GPO-WSB.png) <br><sub>*Criação de GPO `GPO-Workstations-Security-Baseline`, vínculo na OU e configuração de auditoria via PowerShell*</sub> | ![Análise Wireshark SSH](./assets/week04-day02-wireshark3way.png) <br><sub>*Captura e inspeção de pacotes SSH (`tcp.port == 22`) entre Kali e Debian no Wireshark*</sub> |
 
 ---
 
@@ -66,14 +66,23 @@ Uma visão estruturada dos principais projetos desenvolvidos para demonstrar com
 
 ## 🛠️ Competências Técnicas
 
-┌─────────────────────────┬───────────────────────────────────────────────────────────┐
-│ Categoria               │ Tecnologias & Ferramentas                                 │
-├─────────────────────────┼───────────────────────────────────────────────────────────┤
-│ Sistemas & Rede         │ Windows Server 2025, Active Directory, Linux (Debian/Kali)│
-│ Análise & Segurança     │ Wireshark, Nmap, GPO, IAM / MFA, Event Viewer, Sysmon     │
-│ Programação & Scripting │ Python, PowerShell, Bash, SQL, DAX                        │
-│ Cloud & Dev             │ Firebase, Git/GitHub, Docker, React, TypeScript           │
-└─────────────────────────┴───────────────────────────────────────────────────────────┘
+**Sistemas & Redes**  
+![Windows Server](https://img.shields.io/badge/Windows_Server_2025-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Debian/Kali-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Segurança Defensiva & Análise**  
+![Wireshark](https://img.shields.io/badge/Wireshark-167EC6?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4D4D4D?style=flat-square)
+![PowerShell GPO](https://img.shields.io/badge/GPO_&_Sysmon-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![IAM & MFA](https://img.shields.io/badge/IAM_&_MFA-4A154B?style=flat-square)
+
+**Scripting & Dados**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Power BI DAX](https://img.shields.io/badge/Power_BI_DAX-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
 ---
 

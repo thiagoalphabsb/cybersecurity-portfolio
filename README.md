@@ -1,6 +1,6 @@
 # 🛡️ Thiago Souza Silva | Cybersecurity & SOC Analyst Portfolio
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-souza-silva/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-souza-silva-5607223aa/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiagoalphabsb)
 [![Location](https://img.shields.io/badge/Location-Brasília%2C%20DF-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
@@ -81,7 +81,7 @@ Uma visão estruturada dos principais projetos desenvolvidos para demonstrar com
 
 Estou aberto a oportunidades profissionais em **Análise de Cibersegurança / SOC Júnior**, **Suporte Técnico N2/N3** e **Segurança da Informação**.
 
-- **LinkedIn:** [linkedin.com/in/thiago-souza-silva](https://www.linkedin.com/in/thiago-souza-silva/)
+- **LinkedIn:** [linkedin.com/in/thiago-souza-silva](https://www.linkedin.com/in/thiago-souza-silva-5607223aa/)
 - **GitHub:** [github.com/thiagoalphabsb](https://github.com/thiagoalphabsb)
 - **Localização:** Brasília, DF - Brasil
 

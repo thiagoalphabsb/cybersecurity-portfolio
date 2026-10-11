@@ -80,7 +80,7 @@ Uma visão estruturada dos principais projetos desenvolvidos para demonstrar com
 * **Problema:** Acompanhamento descentralizado e ineficiente de rotinas de treino, controle de cargas e tempo de descanso.
 * **Solução:** Aplicação Web/PWA desenvolvida em React 18, TypeScript, Tailwind CSS e Firebase, contando com regras estritas de segurança no Firestore (`request.auth.uid == userId`), armazenamento local/offline e assistente integrado por IA.
 * **Resultado Validado:** PWA funcional em execução mobile/desktop, arquitetura modularizada, persistência offline e segurança de dados validadas no backend.
-* 🔗 [Ver Apresentação Detalhada no Portfólio](./projects/thunder-fit-app.md) · [Ver Código-Fonte no GitHub](https://github.com/thiagoalphabsb/THUNDER-FIT-APP)
+* 🔗 [Ver Apresentação Detalhada no Portfólio](https://github.com/thiagoalphabsb/cybersecurity-portfolio/tree/main/projects) · [Ver Código-Fonte no GitHub](https://github.com/thiagoalphabsb/THUNDER-FIT-APP)
 
 ---
 

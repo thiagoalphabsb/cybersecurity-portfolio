@@ -31,6 +31,13 @@ O **THUNDER** é uma aplicação web progressiva (PWA) desenvolvida para o acomp
 
 ---
 
+## 🔒 Segurança & Boas Práticas Aplicadas
+
+- **Gestão Segura de Credenciais:** Isolamento completo de variáveis de ambiente (`.env.local`) impedindo a exposição de chaves e segredos no repositório público.
+- **Controle de Acesso no Database:** Regras estritas no Firestore (`request.auth.uid == userId`) garantindo que apenas o usuário autenticado leia e escreva em seus próprios documentos.
+- **Tipagem Estrita com TypeScript:** Prevenção de erros de runtime e validação estática de dados trafegados entre o frontend e a API.
+
+---
 ## 📱 Evidências Visuais & Demonstração em Tempo Real
 
 <div align="center">

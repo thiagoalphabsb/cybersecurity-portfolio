@@ -28,39 +28,59 @@ Profissional em transição de carreira de **Suporte Local N2** para **Análise 
 
 ## 🚀 Projetos Principais
 
-Uma visão estruturada dos principais projetos desenvolvidos para demonstrar competências práticas em segurança defensiva, dados e desenvolvimento de software:
-
-### 🎯 1. Cybersecurity Roadmap & CyberLab (Projeto Principal)
-* **Problema:** Necessidade de simular um ambiente corporativo real para praticar defesa em profundidade, detecção de ameaças e hardening.
-* **Solução:** Implementação de um laboratório virtualizado (**CyberLab**) contendo Kali Linux, Debian e **Windows Server 2025** como Controlador de Domínio (AD CS, DNS, OUs, GPOs) e máquina cliente Windows.
-* **Resultado Validado:** 
-  - Estruturação completa do Active Directory e aplicação validada de políticas de segurança (GPOs) via `gpresult /r`.
-  - Mapeamento e análise de tráfego de rede (ARP, DNS, ICMP) e varreduras com Nmap e Wireshark.
-* 🔗 [Ver Repositório Completo](https://github.com/thiagoalphabsb/Cybersecurity-Roadmap)
+Uma visão estruturada dos principais projetos desenvolvidos para demonstrar competências práticas em segurança defensiva, infraestrutura, análise de dados e desenvolvimento de software:
 
 ---
 
-### 🔑 2. Account Security Hygiene
+### 🎯 1. Cybersecurity Roadmap (Projeto Principal — 24 Semanas)
+* **Problema:** Estruturar um plano contínuo e metódico para migração de carreira de Suporte Local N2 para Cibersegurança / Blue Team.
+* **Solução:** Roadmap prático dividido em 24 semanas cobrindo Redes, Linux, Windows Server, Active Directory, Python, Análise de Tráfego e Investigação de Alertas.
+* **Resultado Validado:** Semanas 1 a 6 concluídas com documentação detalhada, relatórios de análise de pacotes e evidências de laboratório.
+* 🔗 [Ver Repositório do Roadmap](https://github.com/thiagoalphabsb/Cybersecurity-Roadmap)
+
+---
+
+### 🖥️ 2. Windows Server 2025 — Active Directory & Security Baseline
+* **Problema:** Necessidade de simular uma infraestrutura corporativa real para gerenciar identidades centralizadas e aplicar controles defensivos de acesso.
+* **Solução:** Provisionamento do Controlador de Domínio (`DC01` / `corp.thiago.lab`) em Windows Server 2025 com serviços AD DS, DNS e Kerberos, estruturação de OUs, modelo IAM (*Least Privilege*) e aplicação de GPOs de auditoria e baseline de segurança.
+* **Resultado Validado:**
+  - Aplicação e validação de GPO (`GPO-Workstations-Security-Baseline`) vinculada à OU de estações de trabalho.
+  - Habilitação de políticas de auditoria local (`auditpol`) para monitoramento de *Logon*, *User Account Management* e eventos críticos (Event IDs 4624, 4625, 4740).
+* 🔗 [Abrir Projeto Windows Server 2025](https://github.com/thiagoalphabsb/cybersecurity-roadmap/tree/main/projects/windows-server-2025)
+
+---
+
+### 🧪 3. CyberLab — Laboratório Virtual Isolado
+* **Problema:** Mapear e testar vetores de ataque e mecanismos defensivos em um ambiente seguro, sem riscos para redes externas ou de produção.
+* **Solução:** Construção de uma topologia de rede virtualizada e isolada (Host-Only Virtual Switch) integrando Windows Server 2025, estações clientes Windows e instâncias Kali Linux e Debian para testes de segurança e análise de tráfego.
+* **Resultado Validado:**
+  - Inspeção e captura de pacotes via Wireshark (`tcp.port == 22`, ARP, DNS, ICMP).
+  - Testes de regras de firewall, varreduras com Nmap e simulação de eventos para análise em SIEM/Event Viewer.
+* 🔗 [Abrir CyberLab no Roadmap](https://github.com/thiagoalphabsb/cybersecurity-roadmap/blob/main/portfolio/cyberlab/README.md)
+
+---
+
+### 🔑 4. Account Security Hygiene
 * **Problema:** Vulnerabilidade a ataques de engenharia social, credential stuffing e acessos indevidos por falhas de higiene cibernética.
 * **Solução:** Framework prático de higiene de acessos e identidade, cobrindo implementação de MFA/2FA, gerenciadores de senhas, auditoria de sessões ativas e matriz de risco para 9 escopos de contas.
 * **Resultado Validado:** Redução demonstrada do nível de risco residual e criação de procedimentos reproduzíveis de auditoria de IAM.
-* 🔗 [Ver Repositório Completo](https://github.com/thiagoalphabsb/account-security-hygiene)
+* 🔗 [Ver Repositório de Higiene de Contas](https://github.com/thiagoalphabsb/account-security-hygiene)
 
 ---
 
-### 📊 3. Power BI & Análise de Dados Públicos (CNES / SIH-SUS)
-* **Problema:** Necessidade de transformar dados brutos de saúde pública em indicadores executivos e operacionais inteligíveis.
+### 📊 5. Power BI & Análise de Dados Públicos (CNES / SIH-SUS)
+* **Problema:** Transformar dados brutos de saúde pública em indicadores executivos e operacionais inteligíveis.
 * **Solução:** Pipeline ETL em Power Query, modelagem dimensional em estrela (Star Schema) e métricas avançadas em DAX com base em dados reais do SUS.
 * **Resultado Validado:** Dashboards interativos respondendo a perguntas estratégicas sobre capacidade hospitalar e fluxo de internações.
-* 🔗 [Ver Repositório Completo](https://github.com/thiagoalphabsb/Power-BI-Roadmap)
+* 🔗 [Ver Repositório Power BI](https://github.com/thiagoalphabsb/Power-BI-Roadmap)
 
 ---
 
-### 📱 4. THUNDER-FIT-APP
+### 📱 6. THUNDER-FIT-APP
 * **Problema:** Acompanhamento descentralizado e ineficiente de rotinas de treino e progressão de carga.
 * **Solução:** Aplicação Web/PWA desenvolvida em React, TypeScript, Tailwind CSS e Firebase, contando com regras de acesso estruturadas no Firestore e assistente integrado por IA.
 * **Resultado Validado:** PWA funcional com armazenamento local/offline, regras de segurança validadas no backend e interface responsiva.
-* 🔗 [Ver Repositório Completo](https://github.com/thiagoalphabsb/THUNDER-FIT-APP)
+* 🔗 [Ver Repositório THUNDER](https://github.com/thiagoalphabsb/THUNDER-FIT-APP)
 
 ---
 
